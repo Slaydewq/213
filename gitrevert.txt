@@ -1,0 +1,1 @@
+git revert is a command for the safe operation of reverting changes Instead of deleting commits or orphaning them in the commit history, reverting will create a new commit that reverts the specified changes. git revert is a safer alternative to git reset in terms of wasting work.
